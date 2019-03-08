@@ -27,15 +27,15 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # linkedin: your_username
   # medium: @your_username
   # stackoverflow: your_user_id
-  # twitter: your_username
-  # youtube: your_username
+  twitter: hax6775
+  youtube: Hax
 
 topics:
   - name: CSS
