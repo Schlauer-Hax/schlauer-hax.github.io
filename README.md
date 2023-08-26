@@ -26,6 +26,7 @@ This is the main page of [Schlauer-Hax](https://github.com/Schlauer-Hax) on GitH
 - [homebridge-iobroker](https://github.com/Schlauer-Hax/homebridge-iobroker) - null
 - [J.A.A.D.B.](https://github.com/Schlauer-Hax/J.A.A.D.B.) - The real JABD
 - [OCGames](https://github.com/Schlauer-Hax/OCGames) - null
+- [outfitplanner](https://github.com/Schlauer-Hax/outfitplanner) - null
 - [Schlauer-Hax](https://github.com/Schlauer-Hax/Schlauer-Hax) - null
 - [whatsappmonicaopener](https://github.com/Schlauer-Hax/whatsappmonicaopener) - null
 - [ZipToXml](https://github.com/Schlauer-Hax/ZipToXml) - IMS Zip to Moodle XML converter
