@@ -6,6 +6,7 @@ This is the main page of [Schlauer-Hax](https://github.com/Schlauer-Hax) on GitH
 
 - [corona](https://Schlauer-Hax.github.io/corona) ([code](https://github.com/Schlauer-Hax/corona)) - A Website to look at a 3D Model of the Coronavirus
 - [flappybird](https://Schlauer-Hax.github.io/flappybird) ([code](https://github.com/Schlauer-Hax/flappybird)) - null
+- [ibnr-searcher](https://Schlauer-Hax.github.io/ibnr-searcher) ([code](https://github.com/Schlauer-Hax/ibnr-searcher)) - null
 - [montecarlo](https://Schlauer-Hax.github.io/montecarlo) ([code](https://github.com/Schlauer-Hax/montecarlo)) - null
 - [ParkourGen](https://Schlauer-Hax.github.io/ParkourGen) ([code](https://github.com/Schlauer-Hax/ParkourGen)) - null
 - [rpsvs](https://Schlauer-Hax.github.io/rpsvs) ([code](https://github.com/Schlauer-Hax/rpsvs)) - null
